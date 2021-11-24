@@ -1,10 +1,10 @@
-# Create segmented cylinder
+# Create a segmented cylinder
 group_node  = createNode('Transform', 'Segments')
 
 overall_length = 1000
 cylinder_radius = 10
 cylinder_sides = 18
-cylinder_segments = 10
+cylinder_segments = 16
 
 segment_length = round((overall_length / cylinder_segments), 2)
 print(f'Segment length: {segment_length} ({cylinder_segments})')
