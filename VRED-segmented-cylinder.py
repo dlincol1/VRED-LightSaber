@@ -1,5 +1,5 @@
 # Create a segmented cylinder
-group_node  = createNode('Transform', 'Segments')
+group_node = createNode('Transform', 'Segments')
 
 overall_length = 1000
 cylinder_radius = 10
