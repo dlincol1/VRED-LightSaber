@@ -1,2 +1,2 @@
 # VRED-LightSaber
-How to build a light saber in VRED with Python
+How to build a light saber in Python
