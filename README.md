@@ -11,5 +11,4 @@ Step 4 - Import Sounds
 
 Step 5 - Configure Sounds
 
-a | ![VRED-NodeTimers](https://user-images.githubusercontent.com/39199224/143587080-561d6234-1f4e-4cf7-9017-ccd60820094d.gif)
-a | a 
+![VRED-NodeTimers](https://user-images.githubusercontent.com/39199224/143587080-561d6234-1f4e-4cf7-9017-ccd60820094d.gif)
