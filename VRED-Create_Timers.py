@@ -18,6 +18,7 @@ timer_lists = []
 def createTimer(interval, node, state):
     timer = vrTimer(interval, True)
     timer.connect(lambda: node.setActive(state))
+    # Comment or remove next line if Scenegraph update is not required
     timer.connect(lambda: updateScenegraph(True))
     return(timer)
 
